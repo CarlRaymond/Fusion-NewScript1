@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Carl Raymond",
+	"description":	{
+		"":	"Sampe script to do some learnin'."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
